@@ -31,7 +31,7 @@ wiki.ebrains.eu/bin/view/Collabs/tvb-mouse-brains
 wiki.ebrains.eu/bin/view/Collabs/mouse-stroke-brain-network-model
 
 # Authors
-Roopa Pai
-Michael Schirner
-Lyuba Zehl
-Petra Ritter
+* Roopa Pai
+* Michael Schirner
+* Lyuba Zehl
+* Petra Ritter
